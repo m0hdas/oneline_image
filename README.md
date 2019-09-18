@@ -10,8 +10,7 @@ image = Image.open('neil.jpg')
 and tweak size and other parameters to your liking then go ahead and run.
 
 ## Example
-![Neil Armstrong](neil.jpg "before")
-![One Line](neilline.jpg "after")
+<img src="neil.jpg" alt="Before" width="200"/> --------------> <img src="neilline.JPG" alt="After" width="200"/>
 
 ## Dependencies (py packages)
 * turtle
