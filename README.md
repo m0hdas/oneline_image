@@ -11,7 +11,7 @@ and tweak size and other parameters to your liking then go ahead and run.
 
 ## Example
 ![Neil Armstrong](neil.jpg "before")
-![One Line](neil.jpg "after")
+![One Line](neilline.jpg "after")
 
 ## Dependencies (py packages)
 * turtle
